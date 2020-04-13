@@ -1,6 +1,6 @@
 import 'package:br/config/config.dart';
 import 'package:br/listItens/index.dart' as itens;
-import 'package:br/deshboard/index.dart' as deshboard;
+import 'package:br/dashboard/index.dart' as dashboard;
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
@@ -26,7 +26,7 @@ class _MyAppState extends State<MyApp> {
       ),
       initialRoute: '/',
       routes: <String, WidgetBuilder>{
-        '/': (context) => deshboard.Index(),
+        '/': (context) => dashboard.Index(),
         '/superherois': (context) => itens.Index(),
       },
     );
