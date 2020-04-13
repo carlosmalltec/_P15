@@ -5,7 +5,6 @@ class Config {
   static String description = "Super Heróis API";
   static String jsonUrl = "https://www.superheroapi.com";
   static String listBackground = "images/bg.png";
-  static String logo = "images/logo.png";
 
   // Thema
   static Brightness thema = Brightness.light;

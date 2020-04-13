@@ -13,8 +13,7 @@ class API {
       return responseData = convert.json.decode(response.body);
 
     } catch (error) {
-      print("API: catch erro");
+     // print("API: catch erro");
     }
   }
-
 }
