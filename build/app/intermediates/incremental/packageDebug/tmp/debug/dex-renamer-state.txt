@@ -1,0 +1,4 @@
+#Sun Apr 12 16:17:12 BRT 2020
+base.0=C\:\\Users\\Andre Juliano\\Documents\\super-herois-api\\flutter-super-hero-api\\superhero\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
